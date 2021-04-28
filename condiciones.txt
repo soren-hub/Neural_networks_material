@@ -1,0 +1,11 @@
+condiciones para aplicar reg. log y lineal 
+(cap10 podcast machine learning en español )
+
+-supuesto de normalidad 
+-supuesto de varianza constante 
+-supuesto de baja multicolianialidad
+-principio de independencia de los errores 
+-principio de linealidad 
+
+se necesita esto por que ambos algoritmos estan basados en 
+metodos estadisticos  
