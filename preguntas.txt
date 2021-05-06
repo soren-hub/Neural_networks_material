@@ -1,0 +1,12 @@
+
+preguntas:
+cap12 y cap 16: 
+
+los resultados no dan como señala el libro 
+
+cap 18: 
+pag 116
+pag117:
+We define a pooling layer with a receptive field with a width of 2 inputs and a height of 2 inputs.
+
+
