@@ -1,6 +1,6 @@
 
 preguntas:
-cap12 y cap 16: 
+cap12 , cap 16 ,cap 20 (estandarizacion no se nota): 
 
 los resultados no dan como señala el libro 
 
@@ -8,5 +8,8 @@ cap 18:
 pag 116
 pag117:
 We define a pooling layer with a receptive field with a width of 2 inputs and a height of 2 inputs.
+
+pag 81: 
+la estandarizacion  y normalizacion de los datos es el mismo metodo? 
 
 
