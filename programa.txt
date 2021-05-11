@@ -1,0 +1,24 @@
+/home/jrohlandh/prework/openmpi/bin/mpicc -O3 -I/home/jrohlandh/prework/fftw/include   -DMEMORY_MODE                             -DGAUSSIAN                       -c -o src/main.o src/main.c
+make: /home/jrohlandh/prework/openmpi/bin/mpicc: No se encontró el programa
+make: *** [src/main.o] Error 127
+Parte 1
+cap 1 : inicio 20   fin 65  => 45 pag anvance 22, faltan 25
+cap 2 : inicio 66   fin 129 => 63 pag
+cap 3 : inicio 130  fin 165 => 35 pag 
+cap 4 : inicio 166  fin 218 => 52 pag
+cap 5 : inicio 219  fin 239 => 20 pag
+cap 6 : inicio 240  fin 252 => 12 pag
+cap 7 : inicio 253  fin 278 => 25 pag
+cap 8 : inicio 279  fin 305 => 26 pag
+cap 9 : inicio 306  fin 362 => 56 pag
+Parte 2 
+cap 10: inicio 66   fin 130 =>
+cap 11: inicio 66   fin 130 =>
+cap 12: inicio 66   fin 130 =>
+cap 13: inicio 66   fin 130 =>
+cap 14: inicio 66   fin 130 =>
+cap 15: inicio 66   fin 130 =>
+cap 16: inicio 66   fin 130 =>
+cap 17: inicio 66   fin 130 =>
+cap 18: inicio 66   fin 130 =>
+
