@@ -2,7 +2,7 @@
 Parte 1
 cap 1 : inicio 20   fin 65  => 45 pag completo 
 cap 2 : inicio 66   fin 129 => 63 pag completo 
-cap 3 : inicio 130  fin 165 => 35 pag 
+cap 3 : inicio 130  fin 165 => 35 pag completo 
 cap 4 : inicio 166  fin 218 => 52 pag 
 cap 5 : inicio 219  fin 239 => 20 pag 
 cap 6 : inicio 240  fin 252 => 12 pag 
